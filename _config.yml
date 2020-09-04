@@ -98,11 +98,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/fansuregrin/fansuregrin.github.io.git
+  repo: git@github.com:fansuregrin/fansuregrin.github.io.git 
   branch: gh-pages
