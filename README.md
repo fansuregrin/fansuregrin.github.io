@@ -1,2 +1,2 @@
 # fansuregrin.github.io
-hexo blog
+My Blog Website: [blog.fansuregrin.top](https://blog.fansuregrin.top)
