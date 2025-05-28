@@ -1,6 +1,8 @@
 ---
 title: ArchLinux安装JavaFX并配置Intellij IDEA
-date: 2022-08-09 20:55:00
+date: '2022-08-09 20:55:00'
+categories:
+  - - linux
 ---
 ## 1.源起
 

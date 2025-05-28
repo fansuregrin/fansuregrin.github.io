@@ -1,6 +1,8 @@
 ---
 title: 音乐标签编辑器，你选哪个？
-date: 2022-02-19 00:32:00
+date: '2022-02-19 00:32:00'
+categories:
+  - - linux
 ---
 ## 1.MusicBrainz Picard
 

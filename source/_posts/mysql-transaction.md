@@ -1,6 +1,10 @@
 ---
 title: MySQL/MariaDB 中的事务
-date: 2024-04-09 15:32:00
+date: '2024-04-09 15:32:00'
+categories:
+  - - Database
+tags:
+  - MySQL
 ---
 ## 什么是事务
 

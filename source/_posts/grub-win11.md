@@ -1,6 +1,8 @@
 ---
 title: 为GRUB手动添加Windows 11引导选单
-date: 2022-10-24 20:27:00
+date: '2022-10-24 20:27:00'
+categories:
+  - - linux
 ---
 ## 源起
 

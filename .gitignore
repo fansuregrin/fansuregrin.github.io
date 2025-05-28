@@ -9,3 +9,5 @@ _multiconfig.yml
 
 .venv/
 .env
+
+.vscode/

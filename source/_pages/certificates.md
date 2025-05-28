@@ -1,6 +1,6 @@
 ---
 title: coursera证书
-date: 2022-02-20 20:20:00
+date: '2022-02-20 20:20:00'
 ---
 [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/HQQBTNYX9G4E)
 

@@ -1,6 +1,8 @@
 ---
 title: 使用phpmyadmin访问数据库时，出现的两种警告如何解决
-date: 2020-11-27 22:17:00
+date: '2020-11-27 22:17:00'
+categories:
+  - - linux
 ---
 我在使用phpmyadmin访问MySQL数据库时，发现了两个警告。
 

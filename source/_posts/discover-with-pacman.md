@@ -1,6 +1,10 @@
 ---
 title: Archlinux下discover未找到应用程序后端解决办法
-date: 2020-11-27 22:11:00
+date: '2020-11-27 22:11:00'
+categories:
+  - - linux
+tags:
+  - linux
 ---
 ## 一、问题来源
 

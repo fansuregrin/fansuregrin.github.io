@@ -1,6 +1,8 @@
 ---
 title: 记录一些torrent网站
-date: 2021-07-23 08:35:00
+date: '2021-07-23 08:35:00'
+categories:
+  - - 随笔
 ---
 1. The Pirate Bay [link](https://thepiratebay.org/)
 1. Rarbg [link1](https://rarbg.to/) [link2](https://rarbgmirror.com/)

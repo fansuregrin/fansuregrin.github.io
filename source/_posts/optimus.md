@@ -1,6 +1,10 @@
 ---
 title: Archlinux上Nvidia和Intel双显卡切换方案记录
-date: 2020-11-27 22:14:00
+date: '2020-11-27 22:14:00'
+categories:
+  - - linux
+tags:
+  - linux
 ---
 我的笔记本是Intel和Nvidia双显卡，在安装[Arch Linux](https://www.archlinux.org/)后，我一直在寻找双显卡切换方案。
 

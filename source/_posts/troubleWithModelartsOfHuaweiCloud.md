@@ -1,6 +1,8 @@
 ---
 title: Visual Studio Code连接华为云ModelArts问题总结
-date: 2022-10-14 21:01:00
+date: '2022-10-14 21:01:00'
+categories:
+  - - linux
 ---
 近日，Machine Learning的实验需要在华为云的ModelArts平台上开展。我在ModelArts上创建了Notebook并添加密钥后，一直不能在本地用vscode连接远程的开发环境。具体错误信息如下：
 

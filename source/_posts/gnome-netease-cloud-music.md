@@ -1,6 +1,8 @@
 ---
 title: Gnome桌面下网易云音乐无法显示托盘图标问题解决方案
-date: 2022-09-12 21:58:00
+date: '2022-09-12 21:58:00'
+categories:
+  - - linux
 ---
 我在使用`Gnome`桌面环境过程中遇到一个问题，即打开官方的网易云音乐后Gnome的顶栏无法显示托盘图标。这倒不是因为`Gnome`官方取消了顶栏的托盘图标功能，因为我安装了相应的拓展——`gnome-shell-extension-appindicator`。
 
