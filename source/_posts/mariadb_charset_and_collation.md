@@ -1,8 +1,10 @@
 ---
-title: MySQL中的字符集和校对规则
+title: MariaDB中的字符集和校对规则
 date: '2024-04-07 14:52:00'
 categories:
   - - Database
+tags:
+  - MariaDB
 ---
 ## 什么是字符集和校对规则
 

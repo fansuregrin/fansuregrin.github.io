@@ -23,4 +23,3 @@ sudo pacman -S archlinux-appstream-data  packagekit-qt5  flatpak fwupd
 
 安装完成后，就可以看到效果了：
 ![](https://img.fansuregrin.top/blog-img/2020-06-21_22-47.png#vwid=1274&vhei=830)
-

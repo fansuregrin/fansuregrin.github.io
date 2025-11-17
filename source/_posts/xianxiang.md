@@ -9,5 +9,4 @@ tags:
 <p align="center">险象</p> 
 <p align="center">迷雾重重裹，豺狼处处嚎。</br>
 周遭生险象，何处我能逃？</p>
-!!!
 
