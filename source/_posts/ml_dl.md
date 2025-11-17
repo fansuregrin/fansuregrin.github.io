@@ -41,5 +41,5 @@ AI 工具会有幻觉，需要有自己的思考！
 
 ## 参考
 
-[^1] Bing目前已经推出基于ChatGPT的新搜索引擎 [*New Bing*](https://www.microsoft.com/en-us/edge/features/the-new-bing)，体验会更好。
+[^1]: Bing目前已经推出基于ChatGPT的新搜索引擎 [*New Bing*](https://www.microsoft.com/en-us/edge/features/the-new-bing)，体验会更好。
 
