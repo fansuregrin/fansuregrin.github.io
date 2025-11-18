@@ -1,6 +1,7 @@
 ---
 title: MySQL/MariaDB 中的事务
 date: '2024-04-09 15:32:00'
+index_img: https://img.fansuregrin.top/blog-img/sunset_and_plane.jpg
 categories:
   - - Database
 tags:

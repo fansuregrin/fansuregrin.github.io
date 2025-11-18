@@ -1,6 +1,7 @@
 ---
 title: MariaDB中的字符集和校对规则
 date: '2024-04-07 14:52:00'
+index_img: https://img.fansuregrin.top/blog-img/cloud1.jpg
 categories:
   - - Database
 tags:
