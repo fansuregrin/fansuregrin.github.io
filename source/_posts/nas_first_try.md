@@ -5,6 +5,7 @@ index_img: https://img.fansuregrin.top/blog-img/omv1.png
 categories:
   - - 随笔
 tags:
+  - NAS
 ---
 手上有一块1T的硬盘，里面存了不少资料，所以，利用空闲时间来打造个人NAS。
 
