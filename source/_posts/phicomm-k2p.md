@@ -1,7 +1,7 @@
 ---
 title: 都2025年了，Phicomm K2p还有人玩吗？
 date: 2025-11-22 16:05:19
-index_img: 
+index_img: https://img.fansuregrin.top/blog-img/my_desktop.jpg
 categories: 
   - - 随笔
 tags:
