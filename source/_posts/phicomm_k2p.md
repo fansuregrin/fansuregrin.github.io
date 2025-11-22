@@ -57,6 +57,8 @@ OpenWrt 的默认 IP 是192.168.1.1，电脑浏览器访问，默认登录用户
 
 ![openwrt_web_interface](https://img.fansuregrin.top/blog-img/openwrt_web_interface.png)
 
+![openwrt_sysinfo](https://img.fansuregrin.top/blog-img/openwrt_sysinfo.png)
+
 ## 后记
 至此，Phicomm K2p 刷 OpenWrt 正式完成！
 
