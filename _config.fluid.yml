@@ -455,9 +455,11 @@ footer:
       <img src="https://upy.milu.ink/pCIShzd.png" align="absmiddle" width="59px" height="30px">
     </a>
     <span>提供CDN加速/云存储服务</span>
+    <br>
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    <br>
     <span>Fansure Grin Copyright 2025</span>
   '
 
