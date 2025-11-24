@@ -12,4 +12,4 @@ tags:
 4. [YTS](https://yts.lt/)
 5. [EZTV](https://eztvx.to/home)
 
-[1]: rarbg 已于2023年关闭
+[^1]: rarbg 已于2023年关闭
