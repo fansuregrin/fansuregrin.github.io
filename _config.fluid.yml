@@ -827,7 +827,7 @@ valine:
   appId: DySPQjS0lPUGBNigiGPGXDbU-gzGzoHsz
   appKey: HNYP8577C8AqC85sSrQVzwQy
   path: window.location.pathname
-  placeholder:
+  placeholder: 来都来了，说点什么吧！
   avatar: 'retro'
   meta: ['nick', 'mail', 'link']
   requiredFields: []
