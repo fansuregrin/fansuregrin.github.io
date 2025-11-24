@@ -13,7 +13,7 @@ layout: about
 ~~这时我的个人博客，框架使用的是[`Typecho`](https://typecho.org/)。主题使用的是[`Handsome`](https://www.ihewro.com/archives/489/)。~~
 这时我的个人博客，框架使用的是[`Hexo`](https://hexo.io/)。主题使用的是[`Fluid`](https://github.com/fluid-dev/hexo-theme-fluid)。
 
-## 3. Reserch Papers
+## 3. Research Papers
 
 - [ERD: Encoder-Residual-Decoder Neural Network for Underwater Image Enhancement](https://ieeexplore.ieee.org/document/10945897), IEEE Transactions on Circuits and Systems for Video Technology
 - [MISU: Multi-Input Swin-UNet](https://ieeexplore.ieee.org/document/11133740), IEEE Journal of Oceanic Engineering

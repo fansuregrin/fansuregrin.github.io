@@ -6,11 +6,10 @@ categories:
 tags:
   - 网站
 ---
-1. The Pirate Bay [link](https://thepiratebay.org/)
-1. Rarbg [link1](https://rarbg.to/) [link2](https://rarbgmirror.com/)
-1. 1337x [link](https://1337x.to/)
-1. Torlock [link](https://www.torlock.com/)
-1. YTS [link1](https://yts.mx/) [link2](https://yts.rs) [link3](https://wvw.yts.vc/) [link4](https://yts.movie) [link5](https://ww3.yify.is/)
-1. EZTV [link](https://eztv.re/)
-1. Zooqle [link](https://zooqle.com/)
+1. [The Pirate Bay](https://thepiratebay.org/)
+2. [~~Rarbg~~](https://rarbg.to/)[^1]，可访问其备份站点 [rargb](https://rargb.to/)
+3. [1337x](https://www.1377x.to/)
+4. [YTS](https://yts.lt/)
+5. [EZTV](https://eztvx.to/home)
 
+[1]: rarbg 已于2023年关闭
